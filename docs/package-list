@@ -1,3 +1,5 @@
 io.github.egonw.bacting
 net.bioclipse.managers
 net.bioclipse.managers.cdkdebug
+net.bioclipse.managers.report.serializer
+net.bioclipse.xml.business
