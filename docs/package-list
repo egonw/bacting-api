@@ -1,4 +1,5 @@
 io.github.egonw.bacting
+net.bioclipse.biojava.domain
 net.bioclipse.managers
 net.bioclipse.managers.cdkdebug
 net.bioclipse.managers.report.serializer
