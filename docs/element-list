@@ -3,4 +3,5 @@ net.bioclipse.biojava.domain
 net.bioclipse.managers
 net.bioclipse.managers.cdkdebug
 net.bioclipse.managers.report.serializer
+net.bioclipse.wikidata.domain
 net.bioclipse.xml.business
